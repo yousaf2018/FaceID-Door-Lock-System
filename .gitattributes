@@ -1,1 +1,2 @@
 Source_Code/.* filter=lfs diff=lfs merge=lfs -text
+Source_Code/faceRecognitionModel.h5 filter=lfs diff=lfs merge=lfs -text
